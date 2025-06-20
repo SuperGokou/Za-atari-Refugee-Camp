@@ -67,9 +67,6 @@ This project is part of the CS171 data visualization course. It visualizes popul
 
 ---
 
-## 🖼️ Preview
-
-![Homework Preview](assets/cs171-hw5-preview.png)
 
 ---
 
